@@ -1,5 +1,9 @@
 # Zalo AI Bot
-
+<p align="center">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+</p>
 Bot AI dành cho Zalo được xây dựng bằng Node.js (chủ yếu support nhiều cho tiếng Việt)
 Hỗ trợ nhiều nhà cung cấp AI, tự động chuyển provider khi lỗi hoặc hết quota, ghi nhớ hội thoại, tạo ảnh và nhiều tính năng khác.
 Xem https://bot.zapps.me/docs/create-bot/ để biết cách tạo bot và vài thứ khác. Ngoài ra, bạn không cần đổi gì trong code
