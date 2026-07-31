@@ -86,17 +86,17 @@ vẫn còn nguyên — chỉ file code được cập nhật, dữ liệu trong 
 ## 6. Cấu trúc project (`src/`)
 
 src 
-├── index.js # Khởi tạo Express 
-├── bot.js # Xử lý tin nhắn 
-├── llm.js # Gọi AI 
-├── router.js # Phân loại yêu cầu 
-├── providers.js # Danh sách AI 
-├── image.js # Tạo ảnh 
-├── stickers.js # Sticker 
-├── db.js # SQLite 
-├── memory.js # Bộ nhớ hội thoại 
-├── admin.js # Lệnh quản trị 
-└── config.js # Cấu hình
+- ├── index.js # Khởi tạo Express 
+- ├── bot.js # Xử lý tin nhắn 
+- ├── llm.js # Gọi AI 
+- ├── router.js # Phân loại yêu cầu 
+- ├── providers.js # Danh sách AI 
+- ├── image.js # Tạo ảnh 
+- ├── stickers.js # Sticker 
+- ├── db.js # SQLite 
+- ├── memory.js # Bộ nhớ hội thoại 
+- ├── admin.js # Lệnh quản trị 
+- └── config.js # Cấu hình
 
 ## 7.Lưu ý
 - Tôi chx test kỹ cái này đâu:]]]
